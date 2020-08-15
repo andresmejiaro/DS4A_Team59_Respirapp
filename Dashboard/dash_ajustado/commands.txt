@@ -1,0 +1,44 @@
+# Autoriza el .pem en linux
+chmod 400 ds4a_dashboard.pem
+
+#para abrir
+
+# conectarse al EC2 por medio de ssh
+ssh -i "ds4a_dashboard.pem" ubuntu@ec2-54-89-96-203.compute-1.amazonaws.com
+scp -i "ds4a_dashboard.pem" "o_200801_2044.zip" ubuntu@ec2-54-89-96-203.compute-1.amazonaws.com:~/
+
+
+# ls para ver contenido
+ls
+rm -rf
+rm
+
+### en la instancia usar ** para actualizat
+# Update session
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get autoremove
+
+# Install development environment
+sudo apt-get install python3-venv
+
+# crear
+python3 -m venv py3
+
+# como en anaconda
+source py3/bin/activate
+
+# nano para crear archivos
+nano filename.**
+
+# run forever
+source py3/bin/activate
+python3 index.py &
+
+# Salir EC2
+exit
+
+# kill on console
+ps aux | grep python
+sudo kill -9 [number]
+
