@@ -28,7 +28,7 @@ https://youtu.be/W7ys5DcYNg0
 Equipo 59 ds4a Colombia 2
 
 
-* Andrés Mejía
+* Andrés Mejía https://www.linkedin.com/in/andresmejiadscol/
 * Ariel García
 * Catalina Moreno
 * Gilberto A. Morales Zamora
