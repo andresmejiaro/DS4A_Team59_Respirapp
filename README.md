@@ -2,9 +2,13 @@
 
 Este proyecto consiste en tomar informacíon de pacientes de asma cronico y con ella construir un módelo de estimación de la adherencia de los mismos, para presentar los resultados se construyó un dashboard (en dash de plotly)
 
-## Datafolio
+## Datafolio 
+
+![Datafolio](/Documentos/Datafolio.jpg)
 
 ## Documento Final
+
+[Documento Final](https://github.com/andresmejiaro/DS4A_Team59_Respirapp/blob/master/Documentos/20200802%20Final%20Report.docx)
 
 ## Presentación
 
@@ -28,3 +32,8 @@ Equipo 59 ds4a Colombia 2
 * Catalina Moreno
 * Gilberto A. Morales Zamora
 * Sergio Gómez 
+
+## Agradecimientos
++ Omnivida  
++ Correlaton One
++ Mintic
