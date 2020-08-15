@@ -9,7 +9,7 @@ import plotly.express as px
 #%%
 ## necesita la base de medicamentos cargados
 ## Cambiar la ruta para la ubicacion correcta
-engine=sqla.create_engine('postgresql://biologicos:omalizumab@adherencia.cl57pi28yi4u.us-east-2.rds.amazonaws.com:5432/proyecto_adherencia')
+engine=sqla.create_engine('postgresql://XXXXXXXX/proyecto_adherencia')
 
 _connection_=engine.connect()
 metadata=sqla.MetaData()

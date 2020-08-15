@@ -21,6 +21,7 @@ https://youtu.be/W7ys5DcYNg0
 * Modelo: Entrenamiento del modelo basado en arboles para usados.
 * Dashboard: Código del dashboard implementado en el servido EC2 de AWS.
 * Documentacion: Documentos finales entregados con el proyecto.
+* Codebase: Base de codigo tal como se entregó en el proyecto
 
 ## Equipo
 
